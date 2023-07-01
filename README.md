@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Chinelo. Welcome to my Github profile!
-#### - 😄 Pronouns: She/Her
+####  😄 Pronouns: She/Her
 ## I am a Pharmacist and Data Scientist
 ## I am interested in health informatics and love working with health data 
 # My stacks are: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  [![SciKit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -17,11 +17,13 @@
 </a>
 </div>  
   
+
 - ⚡ Fun fact: I sing along to 85% of the music on my playlist.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Nendyy&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/Nendyy)
 
- Thank you for visitng my profile and do have a lovely day ❤️.
+ 
+ Thank you for visiting my profile and do have a lovely day ❤️.
 
  
 
@@ -39,5 +41,5 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">Link to my <a href="https://oluwaseun-ogundeko.netlify.app/" target="_blank">portfolio website</a></div>
+<div align="center">Link to my <a href="" target="_blank">portfolio website</a></div>
 -->
